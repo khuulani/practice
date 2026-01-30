@@ -1,2 +1,2 @@
 # practice
-Data 413 Assignment 1
+This repository is just for practice!
